@@ -8,7 +8,7 @@ stocks_dict = {
   "PUMSY": "23.05",
   "CCOEF": "2.02",
   "ADS": "3.03",
-  "ROX": ".97",
+  "ROCX": ".97",
 }
 x = input("Please enter your stock symbol:")
 
